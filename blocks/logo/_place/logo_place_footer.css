@@ -1,0 +1,5 @@
+.logo_place_footer {
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url(/images/logo/logo_place_footer.png);
+}
