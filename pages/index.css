@@ -1,11 +1,17 @@
+/* CSS Globals */
 @import url(/vendor/normalize.css);
-@import url(/vendor/boxsizing.css);
+@import url(/vendor/extras.css);
 @import url(/root/root.css);
 
+/* keyframes */
+@import url(/blocks/keyframes/rotation/rotation.css);
+
+/* logo */
 @import url(/blocks/logo/logo.css);
 @import url(/blocks/logo/_place/logo_place_header.css);
 @import url(/blocks/logo/_place/logo_place_footer.css);
 
+/* header section */
 @import url(/blocks/header/header.css);
 @import url(/blocks/header/__title/header__title.css);
 @import url(/blocks/header/__subtitle/header__subtitle.css);

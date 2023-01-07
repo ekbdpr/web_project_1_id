@@ -5,4 +5,5 @@
   top: 64px;
   right: 0;
   background-color: #2f80ed;
+  animation: rotation 20s linear infinite;
 }
