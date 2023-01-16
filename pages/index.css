@@ -89,7 +89,7 @@
 
 /* footer */
 @import url(/blocks/footer/footer.css);
-@import url(/blocks/footer/__column/footer__column.css);
+@import url(/blocks/footer/__columns/footer__column.css);
 @import url(/blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
 @import url(/blocks/footer/__column/_content/_about/footer__column_content_about.css);
 @import url(/blocks/footer/__column/_content/_social/footer__column_content_social.css);
