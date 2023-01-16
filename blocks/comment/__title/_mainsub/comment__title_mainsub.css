@@ -1,0 +1,10 @@
+.comment__title_mainsub {
+  writing-mode: vertical-lr;
+  text-align: center;
+  text-transform: uppercase;
+  transform: rotate(180deg);
+  margin: 0 20px;
+  padding: 0;
+  line-height: 40px;
+  font-size: 50px;
+}

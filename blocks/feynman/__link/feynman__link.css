@@ -9,6 +9,7 @@
   color: #2f80ed;
   margin: 0;
   padding: 0;
+  transition: color 0.2s linear;
 }
 
 .feynman__link:hover {

@@ -297,6 +297,34 @@
         </div>
       </section>
 
+      <section class="comment">
+        <form action="#" class="comment__section">
+          <h2 class="comment__title">Bagaimana pesan dan kesan kalian ? <span
+              class="comment__title comment__title_sub">Silahkan tulis disini</span></h2>
+          <fieldset class="comment__container">
+            <label for="username" class="comment__label">Nama</label>
+            <input type="text" name="username" id="username" placeholder="Eka Budhi Prasetya" class="comment__input">
+            <label for="email" class="comment__label">Email</label>
+            <input type="email" name="email" id="email" placeholder="hello@example.com" class="comment__input">
+            <label for="comment-box" class="comment__label">Pesan dan Kesan</label>
+            <textarea name="comment-box" id="comment-box" placeholder="Saya sangat suka karena ..."
+              class="comment__input comment__box"></textarea>
+          </fieldset>
+          <fieldset class="comment__handlers">
+            <button type="submit" class="comment__button">Submit</button>
+            <button type="reset" id="reset-button" class="comment__button">Reset</button>
+          </fieldset>
+        </form>
+        <h2 class="comment__title comment__title_mainsub">Messages</h2>
+        <div class="comment-list">
+          <h2 class="comment-list__username">Eka Budhi Prasetya (Author) <span class="comment-list__addons">said:</span>
+          </h2>
+          <p class="comment-list__text">Try to give me some messages on the form then press submit, your messages should
+            be under
+            mine! And dont forget to try the reset button too. Enjoy :)</p>
+        </div>
+      </section>
+
     </main>
     <footer class="footer">
       <div class="footer__column">
@@ -327,6 +355,7 @@
       </div>
     </footer>
   </div>
+  <script src="/scripts/script.js"></script>
 </body>
 
 </html>

@@ -3,6 +3,7 @@
   color: #2f80ed;
   transition: color 0.2s linear;
 }
+
 .header__link:hover {
   color: rgba(55, 108, 231, 0.481);
 }

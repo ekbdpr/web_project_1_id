@@ -1,0 +1,7 @@
+.comment__title {
+  display: flex;
+  flex-direction: column;
+  line-height: 25px;
+  font-size: 23px;
+  font-weight: bold;
+}

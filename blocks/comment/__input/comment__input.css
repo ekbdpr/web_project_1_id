@@ -1,0 +1,22 @@
+.comment__input {
+  min-width: 300px;
+  max-width: 400px;
+  outline-color: #b2cbec;
+  transition: outline-color 0.5s linear;
+  background-color: #f2f2f2;
+}
+
+.comment__input[type="text"] {
+  border: 0;
+  border-bottom: 1px solid #000;
+}
+
+.comment__input[type="email"] {
+  border: 0;
+  border-bottom: 1px solid #000;
+}
+
+.comment__input:focus {
+  outline-width: 3px;
+  outline-color: #2f80ed;
+}

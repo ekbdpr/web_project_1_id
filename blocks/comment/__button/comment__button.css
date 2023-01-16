@@ -1,0 +1,23 @@
+.comment__button {
+  margin-top: 10px;
+  border: 0;
+  width: 200px;
+  transition: opacity 0.4s linear;
+  cursor: pointer;
+  color: white;
+  line-height: 25px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.comment__button:hover {
+  opacity: 0.7;
+}
+
+.comment__button[type="submit"] {
+  background-color: #2f80ed;
+}
+
+.comment__button[type="reset"] {
+  background-color: red;
+}

@@ -1,0 +1,8 @@
+.comment-list__text {
+  max-width: 90%;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid black;
+  line-height: 1.5;
+}
