@@ -2,7 +2,9 @@
 
 This is my very first project as a student at Practicum ID.
 
-Disini saya telah menyelesaikan project saya yang bertemakan "One Page Website".
+My name is Eka Budhi Prasetya.
+
+Dan disini saya telah menyelesaikan project saya yang bertemakan "One Page Website".
 
 Seluruh isi dari website ini telah disesuaikan dengan **Sprint 1 ID Brief** dan **Sprint 2 ID Brief** tetapi dengan sedikit _tambahan_ dari saya pribadi.
 
